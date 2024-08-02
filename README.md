@@ -1,2 +1,2 @@
 # Create-Username
-HTML || CSS
+HTML || JAVASCRIPT
